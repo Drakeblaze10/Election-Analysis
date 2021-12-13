@@ -11,7 +11,13 @@ Requested to complete an election audit on a congressional election. The client 
 7. Determine the winner of the election based
 
 ## Results
--How many votes were cast in this congressional election?
-    -There was a total of 369,711 votes cast
+* How many votes were cast in this congressional election?
+    - There was a total of 369,711 votes cast
+* Breakdown of votes and percentage of total votes for each county
+    - ![County_Votes](https://github.com/Drakeblaze10/Election-Analysis/blob/main/Resources/County%20votes.PNG)
+* County with the largest number of votes
+    - Denver
+* Breakdown of number of votes and percentage of total votes for each candidate
+    - ![Candidate_votes]()
 
 ## Summary
